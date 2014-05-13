@@ -1,0 +1,10 @@
+Date,Species,Count
+2014-05-01,pike,3
+2014-05-01,perch,12
+2014-05-01,salmon,2
+2014-05-02,pike,2
+2014-05-02,bass,1
+2014-05-03,pickerel,4
+2014-05-03,catfish,1
+2014-05-03,squid,1
+2014-05-04,carp,1
